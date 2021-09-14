@@ -176,7 +176,7 @@ hr {
         color: inherit;
     }
 
-    .attribution {
-        transform: translate(-50%, 1500%);
+    .hide-for-mobile {
+        display: none;
     }
 }
